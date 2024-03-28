@@ -1,0 +1,852 @@
+{
+  "maincategory": [
+    {
+      "id": "ead9",
+      "name": "Male"
+    },
+    {
+      "id": "c440",
+      "name": "Female"
+    },
+    {
+      "id": "d11d",
+      "name": "kids"
+    }
+  ],
+  "subcategory": [
+    {
+      "id": "26df",
+      "name": "Trouser"
+    },
+    {
+      "id": "ff79",
+      "name": "Jeans"
+    },
+    {
+      "id": "27fa",
+      "name": "Shirt"
+    },
+    {
+      "id": "7a04",
+      "name": "T shirt"
+    },
+    {
+      "id": "bc0b",
+      "name": "Pants"
+    },
+    {
+      "id": "836b",
+      "name": "Shorts"
+    },
+    {
+      "id": "c01f",
+      "name": "Jacket"
+    },
+    {
+      "id": "3a9e",
+      "name": "Coat"
+    },
+    {
+      "id": "6533",
+      "name": "Sweater"
+    },
+    {
+      "id": "9a84",
+      "name": "Hoodie"
+    },
+    {
+      "id": "1d61",
+      "name": "Blazer"
+    },
+    {
+      "id": "ac99",
+      "name": "Chinos"
+    },
+    {
+      "id": "2bcf",
+      "name": "Joggers"
+    },
+    {
+      "id": "1d01",
+      "name": "Track Pants"
+    },
+    {
+      "id": "c7ea",
+      "name": "Boxer's"
+    }
+  ],
+  "brand": [
+    {
+      "id": "7c49",
+      "name": "Zara"
+    },
+    {
+      "id": "51b4",
+      "name": "Tommy Hilfiger"
+    },
+    {
+      "id": "5e72",
+      "name": "Supreme"
+    },
+    {
+      "id": "a43e",
+      "name": "Pepe Jeans"
+    },
+    {
+      "id": "034a",
+      "name": "Peter England"
+    },
+    {
+      "id": "826b",
+      "name": "Wrangler"
+    },
+    {
+      "id": "db58",
+      "name": "Allen Solly"
+    },
+    {
+      "id": "5801",
+      "name": "Raymond"
+    },
+    {
+      "id": "1fa6",
+      "name": "Flying Machine"
+    },
+    {
+      "id": "2df1",
+      "name": "Pantaloons"
+    },
+    {
+      "id": "0b21",
+      "name": "Global Desi"
+    },
+    {
+      "id": "c8c9",
+      "name": "Nike"
+    },
+    {
+      "id": "1a81",
+      "name": "Fabindia"
+    },
+    {
+      "id": "ed37",
+      "name": "Mufti"
+    },
+    {
+      "id": "9b84",
+      "name": "Indian Terrain"
+    },
+    {
+      "id": "6341",
+      "name": "Park Avenue"
+    },
+    {
+      "id": "ae60",
+      "name": "Van heusen"
+    },
+    {
+      "id": "c5bd",
+      "name": "Levi's"
+    },
+    {
+      "id": "4a34",
+      "name": "Adidas"
+    },
+    {
+      "id": "5e94",
+      "name": "H&M"
+    },
+    {
+      "id": "97e8",
+      "name": "Fastrack"
+    },
+    {
+      "id": "c9b4",
+      "name": "Reebok"
+    },
+    {
+      "id": "a4df",
+      "name": "Woodland"
+    },
+    {
+      "id": "e600",
+      "name": "Being Human"
+    },
+    {
+      "id": "72ca",
+      "name": "Louis Phillippe"
+    },
+    {
+      "id": "31ef",
+      "name": "Lee"
+    },
+    {
+      "id": "d724",
+      "name": "Roadster"
+    },
+    {
+      "id": "6797",
+      "name": "Jack & jones"
+    },
+    {
+      "id": "0dfc",
+      "name": "Lux Cozi"
+    },
+    {
+      "id": "abac",
+      "name": "Spykar"
+    },
+    {
+      "id": "3a5d",
+      "name": "Forever 21"
+    },
+    {
+      "id": "f77a",
+      "name": "Blackberrys"
+    }
+  ],
+  "product": [
+    {
+      "id": "537f",
+      "name": "Men Pink Color Oversized T-shirt",
+      "maincategory": "Male",
+      "subcategory": "T shirt",
+      "brand": "Blackberrys",
+      "color": "Pink",
+      "size": "38",
+      "baseprice": 800,
+      "discount": 19,
+      "finalprice": 648,
+      "stock": "In Stock",
+      "description": "<p><strong>Men </strong>Fit Slim T-Shirt</p>\n",
+      "pic": [
+        "men.png"
+      ]
+    },
+    {
+      "id": "23e7",
+      "name": "Men Slim Fit Black T-shirt",
+      "maincategory": "Male",
+      "subcategory": "T shirt",
+      "brand": "Woodland",
+      "color": "Black",
+      "size": "38",
+      "baseprice": 1200,
+      "discount": 40,
+      "finalprice": 720,
+      "stock": "In Stock",
+      "description": "<p>Slim Fit T-Shirt</p>\n",
+      "pic": [
+        "men1.png"
+      ]
+    },
+    {
+      "id": "b13f",
+      "name": "Oversized Black T-Shirt",
+      "maincategory": "Male",
+      "subcategory": "T shirt",
+      "brand": "H&M",
+      "color": "Black",
+      "size": "40",
+      "baseprice": 600,
+      "discount": 10,
+      "finalprice": 540,
+      "stock": "In Stock",
+      "description": "<p>Oversized T-shirt</p>\n",
+      "pic": [
+        "men2.png"
+      ]
+    },
+    {
+      "id": "e7f5",
+      "name": "Oversized Green T-Shirt",
+      "maincategory": "Male",
+      "subcategory": "T shirt",
+      "brand": "Mufti",
+      "color": "Green",
+      "size": "38",
+      "baseprice": 800,
+      "discount": 5,
+      "finalprice": 760,
+      "stock": "In Stock",
+      "description": "<p>Green T-shirt</p>\n",
+      "pic": [
+        "men3.png"
+      ]
+    },
+    {
+      "id": "7439",
+      "name": "Printed Black T-shirt",
+      "maincategory": "Male",
+      "subcategory": "T shirt",
+      "brand": "Van heusen",
+      "color": "Black",
+      "size": "38",
+      "baseprice": 900,
+      "discount": 18,
+      "finalprice": 738,
+      "stock": "In Stock",
+      "description": "<p>Black Printed T-shirt</p>\n",
+      "pic": [
+        "men4.png"
+      ]
+    },
+    {
+      "id": "f48a",
+      "name": "Slim Fit Blue T-Shirt",
+      "maincategory": "Male",
+      "subcategory": "T shirt",
+      "brand": "Van heusen",
+      "color": "Blue",
+      "size": "40",
+      "baseprice": 400,
+      "discount": 10,
+      "finalprice": 360,
+      "stock": "In Stock",
+      "description": "<p>Blue T-shirt Printed</p>\n",
+      "pic": [
+        "men5.png"
+      ]
+    },
+    {
+      "id": "4c11",
+      "name": "Men's Printed White T-shirt",
+      "maincategory": "Male",
+      "subcategory": "T shirt",
+      "brand": "Roadster",
+      "color": "White",
+      "size": "36",
+      "baseprice": 1200,
+      "discount": 12,
+      "finalprice": 1056,
+      "stock": "In Stock",
+      "description": "<p>White T-shiert Printed</p>\n",
+      "pic": [
+        "men6.png"
+      ]
+    },
+    {
+      "id": "6507",
+      "name": "Printed Pink T-shirt",
+      "maincategory": "Male",
+      "subcategory": "T shirt",
+      "brand": "Woodland",
+      "color": "Pink",
+      "size": "34",
+      "baseprice": 600,
+      "discount": 7,
+      "finalprice": 558,
+      "stock": "In Stock",
+      "description": "<p>Printed Pnk t-shirt</p>\n",
+      "pic": [
+        "men7.png"
+      ]
+    },
+    {
+      "id": "7c4c",
+      "name": "Women Printed T-Shirt",
+      "maincategory": "Female",
+      "subcategory": "T shirt",
+      "brand": "Jack & jones",
+      "color": "Purple",
+      "size": "38",
+      "baseprice": 700,
+      "discount": 17,
+      "finalprice": 581,
+      "stock": "In Stock",
+      "description": "<p>Printed purple Colour T-Shirt</p>\n",
+      "pic": [
+        "women.png"
+      ]
+    },
+    {
+      "id": "6d5d",
+      "name": "Oversized BrownT-Shirt",
+      "maincategory": "Female",
+      "subcategory": "T shirt",
+      "brand": "Tommy Hilfiger",
+      "color": "Brown",
+      "size": "34",
+      "baseprice": 960,
+      "discount": 33,
+      "finalprice": 643,
+      "stock": "In Stock",
+      "description": "<p></p>\n",
+      "pic": [
+        "women1.png"
+      ]
+    },
+    {
+      "id": "024e",
+      "name": "Printed Pink T-shirt",
+      "maincategory": "Female",
+      "subcategory": "T shirt",
+      "brand": "Indian Terrain",
+      "color": "Pink",
+      "size": "40",
+      "baseprice": 860,
+      "discount": 13,
+      "finalprice": 748,
+      "stock": "In Stock",
+      "description": "<p></p>\n",
+      "pic": [
+        "women2.png"
+      ]
+    },
+    {
+      "id": "75a8",
+      "name": "Printed White T-Shirt",
+      "maincategory": "Female",
+      "subcategory": "T shirt",
+      "brand": "Blackberrys",
+      "color": "White",
+      "size": "40",
+      "baseprice": 1200,
+      "discount": 45,
+      "finalprice": 660,
+      "stock": "In Stock",
+      "description": "<p></p>\n",
+      "pic": [
+        "women3.png"
+      ]
+    },
+    {
+      "id": "e218",
+      "name": "Oversized Green Color T-Shirt",
+      "maincategory": "Female",
+      "subcategory": "T shirt",
+      "brand": "Reebok",
+      "color": "Green",
+      "size": "37",
+      "baseprice": 900,
+      "discount": 33,
+      "finalprice": 603,
+      "stock": "In Stock",
+      "description": "<p></p>\n",
+      "pic": [
+        "women4.png"
+      ]
+    },
+    {
+      "id": "8f8f",
+      "name": "Women Oversized Printed T-Shirt",
+      "maincategory": "Female",
+      "subcategory": "T shirt",
+      "brand": "Van heusen",
+      "color": "Pink",
+      "size": "34",
+      "baseprice": 1200,
+      "discount": 42,
+      "finalprice": 696,
+      "stock": "In Stock",
+      "description": "<p></p>\n",
+      "pic": [
+        "women5.png"
+      ]
+    },
+    {
+      "id": "f25a",
+      "name": "Women Long T-shirt",
+      "maincategory": "Female",
+      "subcategory": "T shirt",
+      "brand": "H&M",
+      "color": "Black",
+      "size": "38",
+      "baseprice": 1500,
+      "discount": 30,
+      "finalprice": 1050,
+      "stock": "In Stock",
+      "description": "<p></p>\n",
+      "pic": [
+        "women7.png"
+      ]
+    },
+    {
+      "id": "4074",
+      "name": "Women Astronaut Design T-Shirt",
+      "maincategory": "Female",
+      "subcategory": "T shirt",
+      "brand": "Forever 21",
+      "color": "Black",
+      "size": "38",
+      "baseprice": 600,
+      "discount": 10,
+      "finalprice": 540,
+      "stock": "In Stock",
+      "description": "<p></p>\n",
+      "pic": [
+        "women6.png"
+      ]
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "ab72",
+      "name": "Aditya Pandey",
+      "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus et deleniti nesciunt sint eligendi reprehenderit reiciendis, quibusdam illo, beatae quia fugit consequatur laudantium velit magnam error. Consectetur distinctio fugit doloremque.",
+      "star": "5",
+      "pic": "log.jpeg"
+    },
+    {
+      "id": "2cc5",
+      "name": "Aman pandey",
+      "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus et deleniti nesciunt sint eligendi reprehenderit reiciendis.",
+      "star": "5",
+      "pic": "chatbg.jpg"
+    },
+    {
+      "id": "d787",
+      "name": "Ashish",
+      "message": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus et deleniti nesciunt sint eligendi reprehenderit reiciendis, quibusdam illo, beatae quia fugit consequatur laudantium velit magnam error. Consectetur distinctio fugit doloremque.",
+      "star": "5",
+      "pic": "post-item3.jpg"
+    }
+  ],
+  "user": [
+    {
+      "name": "Aditya Panday",
+      "phone": "9899228654",
+      "address": "C-451 Dabua colony Nit Faridabad",
+      "pin": "121001",
+      "city": "Faridabad",
+      "state": "Haryana",
+      "pic": "log.jpeg",
+      "id": "2d6b",
+      "username": "Aditya123",
+      "email": "adi@gmail.com",
+      "password": "anshu",
+      "role": "user"
+    },
+    {
+      "id": "261f",
+      "name": "Anand",
+      "username": "anand221",
+      "email": "anand@gmail.com",
+      "phone": "9879098789",
+      "password": "jamura121",
+      "role": "user"
+    },
+    {
+      "name": "ashish",
+      "phone": "9569696969",
+      "address": "c-441 Dandamau",
+      "pin": "121001",
+      "city": "unnao",
+      "state": "up",
+      "pic": "chatbg2.jpg",
+      "id": "31c5",
+      "username": "ashish221",
+      "email": "ashish@gmail.com",
+      "password": "jamura121",
+      "role": "Admin"
+    }
+  ],
+  "cart": [
+    {
+      "id": "634a",
+      "productid": "f25a",
+      "userid": "261f",
+      "name": "Women Long T-shirt",
+      "brand": "H&M",
+      "color": "Black",
+      "size": "38",
+      "price": 1050,
+      "qty": 1,
+      "total": 1050,
+      "pic": "women7.png"
+    },
+    {
+      "id": "0ef4",
+      "productid": "6507",
+      "userid": "261f",
+      "name": "Printed Pink T-shirt",
+      "brand": "Woodland",
+      "color": "Pink",
+      "size": "34",
+      "price": 558,
+      "qty": 1,
+      "total": 558,
+      "pic": "men7.png"
+    },
+    {
+      "id": "7f76",
+      "productid": "4074",
+      "userid": "261f",
+      "name": "Women Astronaut Design T-Shirt",
+      "brand": "Forever 21",
+      "color": "Black",
+      "size": "38",
+      "price": 540,
+      "qty": 1,
+      "total": 540,
+      "pic": "women6.png"
+    },
+    {
+      "id": "dcbf",
+      "productid": "6d5d",
+      "userid": "31c5",
+      "name": "Oversized BrownT-Shirt",
+      "brand": "Tommy Hilfiger",
+      "color": "Brown",
+      "size": "34",
+      "price": 643,
+      "qty": 1,
+      "total": 643,
+      "pic": "women1.png"
+    },
+    {
+      "id": "2e80",
+      "productid": "7439",
+      "userid": "31c5",
+      "name": "Printed Black T-shirt",
+      "brand": "Van heusen",
+      "color": "Black",
+      "size": "38",
+      "price": 738,
+      "qty": 1,
+      "total": 738,
+      "pic": "men4.png"
+    },
+    {
+      "id": "9cb8",
+      "productid": "e218",
+      "userid": null,
+      "name": "Oversized Green Color T-Shirt",
+      "brand": "Reebok",
+      "color": "Green",
+      "size": "37",
+      "price": 603,
+      "qty": 1,
+      "total": 603,
+      "pic": "women4.png"
+    },
+    {
+      "id": "fda9",
+      "productid": "f48a",
+      "userid": null,
+      "name": "Slim Fit Blue T-Shirt",
+      "brand": "Van heusen",
+      "color": "Blue",
+      "size": "40",
+      "price": 360,
+      "qty": 2,
+      "total": 720,
+      "pic": "men5.png"
+    },
+    {
+      "id": "46dc",
+      "productid": "4074",
+      "userid": "31c5",
+      "name": "Women Astronaut Design T-Shirt",
+      "brand": "Forever 21",
+      "color": "Black",
+      "size": "38",
+      "price": 540,
+      "qty": 1,
+      "total": 540,
+      "pic": "women6.png"
+    }
+  ],
+  "checkout": [
+    {
+      "id": "f06a",
+      "userid": "2d6b",
+      "paymentmode": "COD",
+      "paymentstatus": "Pending",
+      "orderstatus": "Order is Placed",
+      "subtotal": 2640,
+      "shipping": 0,
+      "total": 2640,
+      "date": "15-03-2024, 18:45:55",
+      "products": [
+        {
+          "id": "1b07",
+          "productid": "23e7",
+          "userid": "2d6b",
+          "name": "Men Slim Fit Black T-shirt",
+          "brand": "Woodland",
+          "color": "Black",
+          "size": "38",
+          "price": 720,
+          "qty": 1,
+          "total": 720,
+          "pic": "men1.png"
+        },
+        {
+          "id": "238d",
+          "productid": "f48a",
+          "userid": "2d6b",
+          "name": "Slim Fit Blue T-Shirt",
+          "brand": "Van heusen",
+          "color": "Blue",
+          "size": "40",
+          "price": 360,
+          "qty": 2,
+          "total": 720,
+          "pic": "men5.png"
+        },
+        {
+          "id": "05b9",
+          "productid": "b13f",
+          "userid": "2d6b",
+          "name": "Oversized Black T-Shirt",
+          "brand": "H&M",
+          "color": "Black",
+          "size": "40",
+          "price": 540,
+          "qty": 1,
+          "total": 540,
+          "pic": "men2.png"
+        },
+        {
+          "id": "ab4e",
+          "productid": "75a8",
+          "userid": "2d6b",
+          "name": "Printed White T-Shirt",
+          "brand": "Blackberrys",
+          "color": "White",
+          "size": "40",
+          "price": 660,
+          "qty": 1,
+          "total": 660,
+          "pic": "women3.png"
+        }
+      ]
+    },
+    {
+      "id": "9eae",
+      "userid": "2d6b",
+      "paymentmode": "COD",
+      "paymentstatus": "Pending",
+      "orderstatus": "Order is Placed",
+      "subtotal": 738,
+      "shipping": 150,
+      "total": 888,
+      "date": "15-03-2024, 18:56:50",
+      "products": [
+        {
+          "id": "5211",
+          "productid": "7439",
+          "userid": "2d6b",
+          "name": "Printed Black T-shirt",
+          "brand": "Van heusen",
+          "color": "Black",
+          "size": "38",
+          "price": 738,
+          "qty": 1,
+          "total": 738,
+          "pic": "men4.png"
+        }
+      ]
+    }
+  ],
+  "newsletter": [
+    {
+      "id": "39bd",
+      "email": "mk6707201@gmail.com"
+    },
+    {
+      "id": "adc3",
+      "email": "aadi45415@gmail.com"
+    }
+  ],
+  "contactus": [
+    {
+      "id": "b7c9",
+      "name": "Aditya Panday",
+      "email": "mk6707201@gmail.com",
+      "phone": "9899228654",
+      "subject": "query",
+      "message": "i have to delete my account",
+      "date": "2024-03-16T04:12:32.830Z",
+      "active": true
+    }
+  ],
+  "wishlist": [
+    {
+      "id": "f017",
+      "productid": "6d5d",
+      "userid": "2d6b",
+      "name": "Oversized BrownT-Shirt",
+      "brand": "Tommy Hilfiger",
+      "color": "Brown",
+      "size": "34",
+      "price": 643,
+      "pic": "women1.png"
+    },
+    {
+      "id": "6a32",
+      "productid": "8f8f",
+      "userid": "2d6b",
+      "name": "Women Oversized Printed T-Shirt",
+      "brand": "Van heusen",
+      "color": "Pink",
+      "size": "34",
+      "price": 696,
+      "pic": "women5.png"
+    },
+    {
+      "id": "d24d",
+      "productid": "4c11",
+      "userid": "2d6b",
+      "name": "Men's Printed White T-shirt",
+      "brand": "Roadster",
+      "color": "White",
+      "size": "36",
+      "price": 1056,
+      "pic": "men6.png"
+    },
+    {
+      "id": "0151",
+      "productid": "f48a",
+      "userid": "2d6b",
+      "name": "Slim Fit Blue T-Shirt",
+      "brand": "Van heusen",
+      "color": "Blue",
+      "size": "40",
+      "price": 360,
+      "qty": 1,
+      "total": 360,
+      "pic": "men5.png"
+    },
+    {
+      "id": "dc99",
+      "productid": "7439",
+      "userid": "31c5",
+      "name": "Printed Black T-shirt",
+      "brand": "Van heusen",
+      "color": "Black",
+      "size": "38",
+      "price": 738,
+      "qty": 1,
+      "total": 738,
+      "pic": "men4.png"
+    },
+    {
+      "id": "938b",
+      "productid": "f48a",
+      "userid": "261f",
+      "name": "Slim Fit Blue T-Shirt",
+      "brand": "Van heusen",
+      "color": "Blue",
+      "size": "40",
+      "price": 360,
+      "qty": 1,
+      "total": 360,
+      "pic": "men5.png"
+    },
+    {
+      "id": "a5eb",
+      "productid": "75a8",
+      "userid": "2d6b",
+      "name": "Printed White T-Shirt",
+      "brand": "Blackberrys",
+      "color": "White",
+      "size": "40",
+      "price": 660,
+      "qty": 1,
+      "total": 660,
+      "pic": "women3.png"
+    }
+  ]
+}
